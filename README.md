@@ -1,5 +1,5 @@
 # **<center>Hi👋, I am Omar</center>**
-## **<center>JavaScript Developer</center>**
+## **<center>Software Developer</center>**
 - 📚 *I am currently learning **React Js, Node Js, TypeScript** etc.*
 - 💬 *Ask me about **JavaScript** ...*
 - 📧  *How to reach me [omar.sultanov.98@gmail.com](omar.sultanov.98@gmail.com)*
